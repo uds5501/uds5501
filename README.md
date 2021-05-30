@@ -1,25 +1,18 @@
 ### Hi there 👋
 
 ## About me
-Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Harcourt Butler Technical University (HBTU), Kanpur. I am a Google Summer of Code '19 Software Developer [@fossasia](https://github.com/fossasia) and Google Code In '19 Mentor [@tensorflow](https://github.com/tensorflow) and [@fossasia](https://github.com/fossasia).
+Hey, I am a final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at Harcourt Butler Technical University (HBTU), Kanpur. I am currently Devops and Backend Intern [@Trell](https://trell.co/) and have been a Google Summer of Code '19 Software Developer [@fossasia](https://github.com/fossasia) and Google Code In '19 Mentor [@tensorflow](https://github.com/tensorflow) and [@fossasia](https://github.com/fossasia).
 
 I have a passion for problem solving and software development with a keen interest in new technologies and enjoy working outside of my comfort zone.
 
-I love Full Stack Development and you can find me mixing it up with Machine Learning from time to time!
+I love Full Stack Development and you can find me taking it to the next level with Infrastructure and thoughtful system designs!
 
 ## 🔭 I’m currently working on
-- Python Fullstack (Django / Flask)
-- React JS
+- Monitoring, Logging and Tracing stacks.
+- Kubernetes Operators
 
 ## 👯 I’m looking to collaborate on
-- API servers
-- Elastic Search projects
-- Redis Caching projects (intermediate levels)
-
-## 🌱 I’m currently learning
-- Docker
-- Service Meshes
-- Docker Networks
+- CNCF Based Cloud projects.
 
 ## 🤔 Where else you can find me?
 - Twitter : [@uds5501](https://twitter.com/uds5501)
