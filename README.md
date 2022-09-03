@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-Hey, I am currently Devops and Backend Engineer at [@Trell](https://trell.co/) and have been a Google Summer of Code '19 Software Developer [@fossasia](https://github.com/fossasia) and Google Code In '19 Mentor [@tensorflow](https://github.com/tensorflow) and [@fossasia](https://github.com/fossasia).
+Hey, I am currently Software Engineer at [@Gojek](https://www.gojek.io/) (Gopay team) and have been a Google Summer of Code '19 Software Developer [@fossasia](https://github.com/fossasia) and Google Code In '19 Mentor [@tensorflow](https://github.com/tensorflow) and [@fossasia](https://github.com/fossasia).
 
 I document my software engineering journey on my blog [Here](https://medium.com/@singhuddeshyaofficial)
 
